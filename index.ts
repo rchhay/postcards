@@ -3,12 +3,12 @@ function initMap(): void {
     // The location of Uluru
     var height = 400;
     var width = 600;
-    var osborne_house = { lat: 50.75117684781056, lng: -1.2704974936301787, front: "./images/osborne_house_front.jpg", back: "./images/osborne_house_back.jpg" };
+    var osborne_house = { lat: 50.75117684781056, lng: -1.2704974936301787, front: "images/osborne_house_front.jpg", back: "images/osborne_house_back.jpg" };
     var louis_vuitton_foundation = { lat: 48.87659588610544, lng: 2.2638564923214624, front: "./images/louis_vuitton_foundation_front.jpg", back: "./images/louis_vuitton_foundation_back.jpg"  };
     var fort_lauderdale = { lat: 26.134006645481247, lng: -80.12634322305998, front: "./images/fort_lauderdale_front.jpg", back: "./images/fort_lauderdale_back.jpg"  };
     var boston_public_garden = { lat: 42.35470759255899, lng: -71.07072062876438, front: "./images/boston_public_garden_front.jpg", back: "./images/boston_public_garden_back.jpg"  };
     var le_morne = { lat: -20.436309564354925, lng: 57.321706470591195, front: "./images/le_morne_front.jpg", back: "./images/le_morne_back.jpg"  };
-    var lake_winnipesaukee = { lat: 43.61820460711549, lng: -71.31938349288026, front: "./images/lake_winnipesaukee_front.jpg", back: "./images/lake_winnipesaukee_back.jpg"  };
+    var lake_winnipesaukee = { lat: 43.61820460711549, lng: -71.31938349288026, front: "images/lake_winnipesaukee_front.jpg", back: "images/lake_winnipesaukee_back.jpg"  };
     var south_shore_bermuda = { lat: 32.25516319201712, lng: -64.81398357443469, front: "./images/south_shore_bermuda_front.jpg", back: "./images/south_shore_bermuda_back.jpg"  };
     var ann_arbor  = { lat: 42.275855420520436, lng: -83.73271174626547 , front: "./images/ann_arbor_front.jpg", back: "./images/ann_arbor_back.jpg"  };
     var pillars_of_hercules = { lat: 17.001048228025983, lng: -61.76113487337774, front: "./images/pillars_of_hercules_front.jpg", back: "./images/pillars_of_hercules_back.jpg"  };
