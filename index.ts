@@ -54,7 +54,7 @@ function initMap(): void {
     var area_51 = { lat: 36.644091788357024,  lng: -116.39559838842528, front: "./images/area_51_front.JPG", back: "./images/area_51_back.JPG"  };
     var oualie_beach_resort = { lat: 17.20057026618323, lng: -62.61064127337592, front: "./images/oualie_beach_resort_front.JPG", back: "./images/oualie_beach_resort_back.JPG"  };
     var florida = { lat: 27.814263332130327, lng: -81.66206668811625, front: "./images/florida_front.JPG", back: "./images/florida_back.JPG"  };
-    var rapa_island = { lat: -27.588981245352638, lng: -144.35252003200546, front: "./images/rapa_island_front.JPG", back: "./images/rapa_island_back.JPG"  };
+    var moorea_island = { lat: -17.535756366421428, lng: -149.83033828861994, front: "./images/rapa_island_front.JPG", back: "./images/rapa_island_back.JPG"  };
     var st_germain_en_laye = { lat: 48.8979500641181,  lng: 2.0961770425738453, front: "./images/st_germain_en_laye_front.JPG", back: "./images/st_germain_en_laye_back.JPG"  };
     var agen = { lat: 44.208047052973825, lng: 0.6057021559368202, front: "./images/agen_front.JPG", back: "./images/agen_back.JPG"  };
     var bequia = { lat: 13.009909502131114, lng: -61.231484492380524, front: "./images/bequia_front.JPG", back: "./images/bequia_back.JPG"  };
@@ -102,7 +102,7 @@ function initMap(): void {
         area_51,
         oualie_beach_resort,
         florida,
-        rapa_island,
+        moorea_island,
         st_germain_en_laye,
         agen,
         bequia,
